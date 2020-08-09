@@ -14,6 +14,7 @@ RUN apt-get update && \
 # edit source code
          vim \
          latexml \
+         libtext-unidecode-perl \
          python3 \
          python3-pip \
          python3-dev \
