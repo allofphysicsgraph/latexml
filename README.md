@@ -1,8 +1,9 @@
 # latexml
-https://dlmf.nist.gov/LaTeXML/get.html
+
+<https://dlmf.nist.gov/LaTeXML/get.html> and <https://math.nist.gov/~BMiller/LaTeXML/> and <https://github.com/brucemiller/LaTeXML>
 
 
-See https://physicsderivationgraph.blogspot.com/2020/07/latexml-for-converting-latex-math-to.html
+See <https://physicsderivationgraph.blogspot.com/2020/07/latexml-for-converting-latex-math-to.html>
 
 Or skip the repo and use
 

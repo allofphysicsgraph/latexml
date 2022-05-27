@@ -3,6 +3,7 @@
 # docker run -it --rm -v `pwd`:/scratch latexml:latest /bin/bash
 
 # https://hub.docker.com/r/phusion/baseimage/tags
+#FROM phusion/focal-1.2.0
 FROM phusion/baseimage:0.11
 
 RUN apt-get update && \
